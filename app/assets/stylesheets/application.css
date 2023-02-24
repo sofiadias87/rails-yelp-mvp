@@ -13,9 +13,3 @@
  *= require_tree .
  *= require_self
  */
-h1 {
-  margin-left: 40px;
-  font-family: poppins;
-  font-size: 60px;
-}
-
